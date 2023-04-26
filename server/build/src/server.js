@@ -53,6 +53,6 @@ const run = async () => {
     await fastify.register(game_1.gameRoutes);
     await fastify.register(guess_1.guessRoutes);
     await fastify.register(user_1.userRoutes);
-    await fastify.listen({ host: "0.0.0.0", port: 3333 });
+    await fastify.listen({ port: 3333, host: "0.0.0.0" });
 };
 run();

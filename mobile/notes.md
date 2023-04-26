@@ -1,1 +1,0 @@
-Parei em 51:29, aula 4
