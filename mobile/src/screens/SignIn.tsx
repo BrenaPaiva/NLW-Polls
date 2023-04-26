@@ -14,13 +14,14 @@ export function SignIn() {
             <Logo width={212} height={40} />
            
             <Button
-                title="ENTRAR COM GOOGLEE"
+                title="ENTRAR COM GOOGLE"
                 leftIcon={<Icon as={Fontisto} name="google" color="white" size="md"/>}
-                type="SECUNDARY"
+                type="SECONDARY"
                 mt="12"
                 onPress={signIn}
+                bgColor="red.500"
                 // isLoading={true}
-                //29:21
+               
             />
             <Text color="white" textAlign="center" mt={4}>
                 Não utilizamos nenhuma informação além {'\n'} do seu e-mail para criação de sua conta
