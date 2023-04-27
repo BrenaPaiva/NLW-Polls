@@ -3,7 +3,7 @@ import { PlusCircle, SoccerBall } from 'phosphor-react-native'
 import { New } from '../screens/New';
 import { Pools } from '../screens/Pools';
 import { useTheme } from 'native-base'
-import { Platform } from 'react-native'
+import { Platform } from 'react-native';
 import { Find } from '../screens/Find';
 
 const { Navigator, Screen } = createBottomTabNavigator();

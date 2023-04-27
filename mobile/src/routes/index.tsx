@@ -11,6 +11,7 @@ export function Routes() {
 		<Box flex={1} bg="gray.900">
 			<NavigationContainer>
 				{user.name ? <AppRoutes /> : <SignIn />}
+				{/* <SignIn /> */}
 			</NavigationContainer>
 		</Box>
 	)

@@ -1,5 +1,5 @@
-import { FastifyRequest } from "fastify";
+import { FastifyInstance, FastifyRequest } from "fastify";
 
 export async function authenticate(request: FastifyRequest) {
-    await request.jwtVerify();
+  await request.jwtVerify()
 }
