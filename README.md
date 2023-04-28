@@ -1,4 +1,13 @@
+<div align="center">
+   <img alt="NLW Copa" src="assets/nlw-copa-logo.svg" width="40%"/>
+</div>
+
 # Server
+<div align="center">
+   <img alt="NLW Copa" src="assets/ERD.svg" width="50%"/>
+</div>
+
+
 
 ## 🚀 Como executar
 
@@ -15,6 +24,11 @@
 - JWT(Json Web Token)
 
 # Mobile
+<div align="center">
+   <img alt="NLW Copa" src="assets/capa-nlw-copa.png" width="50%"/>
+</div>
+
+
 ## 🚀 Como executar
 
 - Instale os pacotes com `npm install`.
@@ -30,6 +44,9 @@
 - Autenticação conta Google(API)
 
 # WebSite
+<div align="center">
+   <img alt="NLW Copa" src="assets/web.png" width="65%"/>
+</div>
 
 ## 🚀 Como executar
 
